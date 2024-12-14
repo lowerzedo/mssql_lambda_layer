@@ -1,2 +1,1 @@
 pyodbc==4.0.39
-.DS_Store
